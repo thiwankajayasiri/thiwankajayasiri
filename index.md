@@ -22,27 +22,10 @@ Role : Product management, Systems Engineering, Mentor and assist in the develop
 ### Care Business Partner - A.P Moller Maersk Group - Sri Lanka.
 December 2013 to March 2017.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Contact me
+For collaborations and advising, please contact me via my personal Email.
 
-1. Numbered
-2. List
+If you have any questions or critical comments regarding my blog posts, please post your questions under the blog post. If you have any questions regarding my GitHub open source projects, please open an issue ticket in the repository. This will be beneficial for all the readers and save my time for not answering duplicated questions.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thiwankajayasiri/thiwankajayasiri/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2020 Thiwanka Jayasiri. Powered by Jekyll and the Minimal Mistakes Theme.
