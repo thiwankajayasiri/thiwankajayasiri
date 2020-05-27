@@ -1,15 +1,23 @@
-## Welcome to GitHub Pages
+## TJ's [B]LOG
 
-You can use the [editor on GitHub](https://github.com/thiwankajayasiri/thiwankajayasiri/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Curriculum Vitae 
+Software Engineer - Skybase Limited, Christchurch, June 2019 to Present
+I currently work as a Sensor fusion ngineer at Skybase Ltd, Christchurch, NZ. Here I develop and engineer machine learning and deep learning algorithms for solving industrial and practical problems of computer vision and Embedded AI application. In addition, I also work on Skybase's Avionics Systems and Mesh Network Engineering. Writing programs using C++, Ada , Python, and sometimes C#, is routine.
 
 ```markdown
-Syntax highlighted code block
+Software Research Engineer(intern) – Calcey Technologies, Sri Lanka
+November 2018 to January 2019.
+
+```markdown
+Founder -Inoic Holdings (Pvt) Ltd – Technology Startup, Sri Lanka.
+March 2017 to March 2018.
+
+```markdown
+Care Business Partner - A.P Moller Maersk Group - Sri Lanka.
+December 2013 to March 2017.
+
+
 
 # Header 1
 ## Header 2
