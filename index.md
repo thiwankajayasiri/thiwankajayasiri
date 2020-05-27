@@ -23,6 +23,24 @@ Role : Product management, Systems Engineering, Mentor and assist in the develop
 December 2013 to March 2017.
 
 
+## Skills
+
+### Programming Language
+I often program using C/C++, CMake and Python. I also have experiences in programming using CUDA, Java, Scala, Haskell, MATLAB, JavaScript, and R and have done at least one large project for each of them.
+I've two Master's degree specializing Geoinformatics & Remote Sensing, Applied Data Science ( Astrophysics & Computer Science).
+Also,experienced in EmbeddedAI application, Hardware development and Electronics. 
+
+### AI methods development
+Natural Language Processing, Computer Vision and Deep Learning, Speech Processing, Statistical Methods, Optimization Methods.
+Edge computing : Xilinx, NVIDIA, Intel, Custom FPGA.
+
+### Office Suites
+I'am very proficient in writing LaTeX and Markdown.
+
+## Awards
+Callaghan Innovation Fellowship Grant 2020 - Airborne Data Link Statistical modelling.
+
+
 ## Contact me
 For collaborations and advising, please contact me via my personal Email.
 
