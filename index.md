@@ -5,9 +5,8 @@
 
 
 ### Embedded AIoT Engineer(Sub-Contractor) - InjectAi, South Adeliade, AU. Feb'20 to Present
-```
 Embedded AI/Machine Learning Application Development, Object tracking and classification application using Xilinx, Nvidia, Intel based near bare metal and bare metal AI application development. Proficient in Squeezed neural network and hybrid neural network programming and development.
-```
+
 ### Software Engineer - Skybase Limited, Christchurch, June 2019 to Present
 I currently work as a Sensor fusion ngineer at Skybase Ltd, Christchurch, NZ. Here I develop and engineer machine learning and deep learning algorithms for solving industrial and practical problems of computer vision and Embedded AI application. In addition, I also work on Skybase's Avionics Systems and Mesh Network Engineering. Writing programs using C++, Ada , Python, and sometimes C#, is routine.
 
